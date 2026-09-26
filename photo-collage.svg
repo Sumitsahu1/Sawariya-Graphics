@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="780" viewBox="0 0 1200 780">
+<rect width="1200" height="780" fill="#f1f2f4"/>
+
+<rect x="80" y="55" width="1040" height="670" rx="28" fill="#fff" stroke="#222" stroke-width="4"/>
+<text x="600" y="125" text-anchor="middle" font-family="Georgia" font-size="48" font-weight="bold" fill="#222">OUR MEMORIES</text>
+<text x="600" y="160" text-anchor="middle" font-family="Arial" font-size="19" fill="#777" letter-spacing="5">PHOTO COLLAGE TEMPLATE</text>
+<rect x="125" y="205" width="310" height="440" rx="12" fill="#d7dbe0"/>
+<rect x="470" y="205" width="300" height="200" rx="12" fill="#bfc7cf"/>
+<rect x="805" y="205" width="250" height="440" rx="12" fill="#dfe3e6"/>
+<rect x="470" y="435" width="300" height="210" rx="12" fill="#c9d0d6"/>
+<g font-family="Arial" font-size="25" fill="#6b7280" text-anchor="middle">
+<text x="280" y="430">PHOTO 01</text><text x="620" y="315">PHOTO 02</text>
+<text x="930" y="430">PHOTO 03</text><text x="620" y="555">PHOTO 04</text>
+</g>
+
+</svg>
